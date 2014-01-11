@@ -1,0 +1,1 @@
+RDMan is unwieldly in our server environment. This parses the RDG file searching for a displayname and printing the group location to the console.
